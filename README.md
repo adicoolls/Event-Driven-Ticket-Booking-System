@@ -375,4 +375,4 @@ This project explores practical backend engineering concepts:
 
 ## License
 
-No license has been selected for this repository yet. Add a license if and when you decide how others may use, modify, and distribute the project.
+No license has been selected for this repository yet.
